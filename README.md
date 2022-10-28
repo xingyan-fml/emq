@@ -33,6 +33,8 @@ sqr/:
 interval/:
     The Interval Score method.
 
+download_all.zip:
+    Download all the code and data at once.
 gbdt/:
     The GBDT method.
 
