@@ -1,7 +1,7 @@
 # emq
 
 data/:
-    The datasets. The two largest are not included.
+    The datasets. The two largest are not included. They can be downloaded from https://drive.google.com/drive/folders/1J9DwTdoLChWVZHAeYdbHx4G0HQHRmsZJ?usp=sharing
 
 collect_results/:
     Collect results after finishing running all models. Run all .py in this folder.
