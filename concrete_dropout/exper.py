@@ -117,13 +117,13 @@ aver_calibrate("bio", data, var, y)
 #==============================================================================
 # BlogFeedback (blog)
 
-data = pd.read_csv('../data/blog.csv')
-data = data.dropna()
+# data = pd.read_csv('../data/blog.csv')
+# data = data.dropna()
 
-var = data.columns[0:276]
-y = data.columns[-1]
+# var = data.columns[0:276]
+# y = data.columns[-1]
 
-aver_calibrate("blog", data, var, y)
+# aver_calibrate("blog", data, var, y)
 
 #==============================================================================
 # Power consumption of T (consumption)
