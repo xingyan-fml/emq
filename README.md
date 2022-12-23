@@ -16,28 +16,25 @@ deep_ensemble/:
     The HNN and Deep Ensemble methods. Run "python exper.py" ...
 
 mc_dropout/:
-    The MC Dropout method. ...
+    The MC Dropout method. Run "python exper.py" ...
 
 concrete_dropout/:
-    The Concrete Dropout method.
+    The Concrete Dropout method. Run "python exper.py" ...
 
 vanilla/:
-    The Vanilla QR method.
+    The Vanilla QR method. Run "python exper.py" ...
 
 vanilla.w/:
-    The QRW method.
+    The QRW method. Run "python exper.py" ...
 
 sqr/:
-    The SQR method.
+    The SQR method. Run "python exper.py" ...
 
 interval/:
-    The Interval Score method.
+    The Interval Score method. Run "python exper.py" ...
 
 gbdt/:
-    The GBDT method.
+    The GBDT method. Run "python exper.py" ...
 
 lgbm/:
-    The LightGBM method.
-
-download_all.zip:
-    Download all the code and data at once.
+    The LightGBM method. Run "python exper.py" ...
