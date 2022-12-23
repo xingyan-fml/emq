@@ -1,0 +1,18 @@
+\makecell{Dataset\\Name} & Full Name & \makecell{Number of\\Samples} & \makecell{Feature\\Dimension} \\ \Xhline{1pt}
+Grid & \makecell{Electrical Grid\\Stability} & 10,000 & 12\\ \hline
+Naval & \makecell{Conditional Based\\Maintenance} & 11,933 & 15\\ \hline
+Appliance & \makecell{Appliances energy\\prediction} & 19,735 & 27\\ \hline
+Election & Real-time Election & 21,643 & 23\\ \hline
+Steel & \makecell{Industry Energy\\Consumption} & 35,040 & 6\\ \hline
+Facebook1 & \makecell{Facebook Comment\\Volume 1} & 40,949 & 52\\ \hline
+Facebook2 & \makecell{Facebook Comment\\Volume 2} & 81,312 & 52\\ \hline
+PM2.5 & Beijing PM2.5 & 41,757 & 10\\ \hline
+Bio & \makecell{Physicochemical\\Properties} & 45,730 & 9\\ \hline
+Blog & BlogFeedback & 52,397 & 276\\ \hline
+Consumption & \makecell{Power consumption\\of T} & 52,416 & 5\\ \hline
+Video & Online Video & 68,784 & 16\\ \hline
+GPU & \makecell{GPU kernel\\performance} & 241,600 & 14\\ \hline
+Query & Query Analytics & 199,843 & 6\\ \hline
+Wave & \makecell{Wave Energy\\Converters} & 287,999 & 48\\ \hline
+Air & \makecell{Beijing Multi-Site\\Air-Quality Data} & 383,585 & 14\\ \hline
+Year & YearPredictionMSD & 515,345 & 90\\ \Xhline{1pt}
